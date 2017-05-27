@@ -30,7 +30,7 @@
   font-size: 60px;
 }
 #header2-1 FONT {
-  color: #fc0e07;
+  color: #5bc0de;
   font-size: 60px;
 }
 #header2-1 .btn {
@@ -302,5 +302,89 @@
   font-family: 'Lato', sans-serif;
 }
 #dropdown-menu-q .navbar-brand a STRONG {
+  font-size: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+#msg-box2-w H2 {
+  color: #fa706c;
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+}
+#msg-box2-w B {
+  color: #0098c6;
+}
+#contacts1-y B {
+  font-size: 25px;
+  color: #04c2fa;
+  font-family: 'Lato', sans-serif;
+}
+#contacts1-y STRONG {
+  font-size: 25px;
+  color: #06c0f7;
+}
+#contacts1-y UL {
+  color: #f1c050;
+}
+#contacts1-y P {
+  font-family: 'Lato', sans-serif;
+}
+#footer1-z P {
+  color: #f2f2f2;
+  font-size: 14px;
+  font-family: 'Lato', sans-serif;
+}
+#contacts3-10 STRONG {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+}
+#contacts3-10 P {
+  color: #f2f2f2;
+  font-family: 'Lato', sans-serif;
+}
+#contacts3-10 .btn {
+  font-family: 'Lato', sans-serif;
+}
+#contacts3-10 SPAN {
+  font-size: 16px;
+}
+#dropdown-menu-11 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-11 .navbar-brand a {
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+}
+#dropdown-menu-11 .nav .link,
+#dropdown-menu-11 .dropdown-item {
+  font-size: 1em;
+  color: #0275d8;
+  font-family: 'Lato', sans-serif;
+}
+#dropdown-menu-11 .navbar,
+#dropdown-menu-11 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-11 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-11 .dropdown-menu a:hover,
+#dropdown-menu-11 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-11 .navbar-toggler {
+  color: #0275d8;
+}
+#dropdown-menu-11 .btn {
+  font-family: 'Lato', sans-serif;
+}
+#dropdown-menu-11 .navbar-brand a STRONG {
   font-size: 22px;
 }
